@@ -1,5 +1,5 @@
 body {
-  background: #342E37;
+  background: #b954eb;
   }
 
 .container {
@@ -49,7 +49,7 @@ form {
 }
 
 .btn:hover {
-  box-shadow: 0 4px #2E282A;
+  box-shadow: 0 4px #cbf96f;
   top: 2px; 
 }
 
