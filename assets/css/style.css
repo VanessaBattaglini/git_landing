@@ -1,7 +1,10 @@
 body {
   background: #b954eb;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   }
-
+    
 .container {
   padding-top: 30px;
 } 
@@ -57,3 +60,7 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+footer {
+    padding: 20px;
+    margin-top: auto;
+}
